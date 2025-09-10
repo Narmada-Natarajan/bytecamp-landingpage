@@ -82,8 +82,8 @@ h1{
     background-size:200px;  
     opacity:0.1;
     position:absolute;   
-    top:57%;
-    left:65%;
+    top:68%;
+    left:69%;
     transform:translate(-50%, -50%);
     width:300px;
     height:300px;
@@ -93,7 +93,6 @@ h1{
     color: rgb(120, 17, 100);
     font-family:'Times New Roman', Times, serif;
     font-size:18pt;
-    
     font-weight:330;
     position:relative;
     z-index:1;
