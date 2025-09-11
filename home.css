@@ -69,6 +69,7 @@ h1{
 
 .card{
     background-color: rgb(250, 255, 240);
+    position: relative;
     padding:30px;
     max-width:650px;
     border-radius:50px;
@@ -80,10 +81,10 @@ h1{
     content: "";
     background:url("assets/logo.png") no-repeat center center;
     background-size:200px;  
-    opacity:0.1;
-    position:absolute;   
-    top:68%;
-    left:69%;
+    opacity:0.1; 
+    position:absolute; 
+    top:50%;
+    left:50%;
     transform:translate(-50%, -50%);
     width:300px;
     height:300px;
